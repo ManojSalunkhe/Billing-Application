@@ -1,0 +1,59 @@
+.account{
+    margin-top: 2%;
+    margin-left: 40%;
+    margin-right: 30%;   
+}
+
+
+.AddForm{
+    margin-top: 1%;
+    padding: 4%;
+    border-style :solid;
+    background: linear-gradient(100deg,#2980b9,#5fe2c1);
+    border-color: rgb(19, 20, 20);
+}
+.customer-table{
+    margin-top: 1%;
+    padding: 4%;
+}
+
+.editModal{
+    background: linear-gradient(100deg,#2980b9,#5fe2c1);
+}
+
+.Addproduct{
+    margin-top: 1%;
+    padding: 4%;
+    background-color: #fdfeff;
+    border-style :solid;
+    background: linear-gradient(100deg,#2980b9,#5fe2c1);
+    border-color: rgb(10, 10, 10);
+}
+
+.produc-list{
+    margin-top: 1%;
+    padding: 4%;
+}
+
+.login{
+    text-align: center;
+    position:absolute;
+    top :30%;
+    left : 35%;
+    height:  auto;
+    width: 500px;
+    background: linear-gradient(100deg,#2980b9,#5fe2c1);
+}
+
+.login Form{
+    border: 2px;
+}
+
+.login .text-feild{
+    border-radius: 5px;
+    margin: 30px;
+}
+
+.bill{
+    background: linear-gradient(100deg,#2980b9,#5fe2c1);
+}
